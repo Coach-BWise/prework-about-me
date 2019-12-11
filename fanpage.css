@@ -1,0 +1,22 @@
+
+#bold {
+    box-sizing: border-box;
+  }
+body{
+    color: rgb(236, 243, 245);
+    margin-left: 15px;
+    background-image: url(https://i.ytimg.com/vi/-Mxjmti325o/hqdefault.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-color: black;
+}
+
+#webpage{
+float: left; 
+}
+
+.clearfix{
+  clear: both;
+}
+
+div {margin-bottom: 3%;}
